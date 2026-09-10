@@ -3,16 +3,12 @@
 <img align="right" alt="Coding" width="400" src"https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnabhattacharya&label=Profile%20views&color=0e75b6&style=flat" alt="krishnabhattacharya" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishnabhattacharya" alt="krishnabhattacharya" /></a> </p>
-
 - 🔭 I’m currently Studying **BS in Information Technology at Mount Kenya University**
 
 - 🌱 I’m currently learning **FullStack Software Development.**
 
-- 👨‍💻 My portfolio website:- [Click here ](https://krishnabhattacharya.github.io/#/)
-- 👨‍💻 My resume :- [Click here ](https://drive.google.com/file/d/1_NtYVv5jqrs9HcMrCdHXgMepYNzdtQZ_/view)
+- 👨‍💻 My portfolio website:- https://ronaldrono.vercel.app/
+- 👨‍💻 My resume :- **Coming Soon**
 
 - 💬 Ask me about **Software engineering related queries.**
 
